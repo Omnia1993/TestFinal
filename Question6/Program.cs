@@ -147,11 +147,6 @@ namespace Question6
 
             }
             
-
-
-
-
-
         }
     }
 }
